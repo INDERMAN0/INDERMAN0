@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm inderman</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/5AZDKPYligAAAAAC/the-purge-god.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inderman0&label=Profile%20views&color=0e75b6&style=flat" alt="inderman0" /> </p>
 
